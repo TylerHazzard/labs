@@ -1,0 +1,36 @@
+.money {
+    display: none;
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hidden {
+    display: none;
+}
+
+#money-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#penny {
+    background-color: brown;
+}
+
+#nickel {
+    background-color: gray;
+}
+
+#dime {
+    background-color: lightgray;
+}
+
+#quarter {
+    background-color: silver;
+}
