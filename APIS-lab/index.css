@@ -1,0 +1,37 @@
+body {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+}
+
+.post {
+    border: 1px solid black;
+    color: red;
+    border-radius: 10px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+
+.post-title {
+    font-size: large;
+    color: white
+}
+
+.post-link {
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+.post-link:hover {
+    color: black;
+}
