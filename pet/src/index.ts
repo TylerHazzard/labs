@@ -10,7 +10,7 @@ export default class VertualPet {
     }
 
     describe(): string {
-        return this.name + " " +this.hunger + " " + this.happiness;
+        return this.name + " " + this.hunger + " " + this.happiness;
     }
 
     getSatisfaction(): number {
