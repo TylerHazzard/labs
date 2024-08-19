@@ -1,0 +1,15 @@
+.header {
+  color: #0e3c7e;
+  border-bottom: 1px solid gray;
+}
+.light-theme {
+  border: 1px solid #222;
+  color: #000;
+}
+.dark-theme {
+  background-color: #222;
+  color: #fff;
+}
+@media screen and (min-width: 480px) {
+
+}
