@@ -1,0 +1,11 @@
+* {
+  font-family: sans-serif;
+  margin: 3px;
+}
+
+button {
+  background-color: #0e3c7e;
+  border-radius: 5px;
+  color: #fff;
+  padding: 5px;
+}
