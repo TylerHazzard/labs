@@ -1,0 +1,12 @@
+.votes {
+    display: flex;
+    flex-direction: column;
+}
+.flavor {
+    border: 1px solid black;
+    display: flex;
+    border-radius: 5px;
+}
+.graph-bar {
+    background-color: black;
+}
